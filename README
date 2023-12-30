@@ -1,0 +1,20 @@
+****************************************************************
+Tarea 5
+Ejercicio 2
+Programacion y Algoritmos
+Angel Antonio Mendez Hernandez
+****************************************************************
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ejecucion:
+Utilizamos flags para dar el nombre del archivo de lectura 
+y el nombre que tendra el archivo de salida, entonces se puede
+ejecutar como sigue:
+
+./name estudiantes.txt salida.txt
+
+estudiantes.txt es mi base inicial de estudiantes (si es mi
+familia porque los extranio :( )
+
+salida.txt es un nombre opcional, puede cambiarse sin problema
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
