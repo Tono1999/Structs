@@ -1,7 +1,7 @@
 ****************************************************************
-Tarea 5
-Ejercicio 2
-Programacion y Algoritmos
+Ejemplo de estructuras con lectura y escritura de archivos.
+
+By
 Angel Antonio Mendez Hernandez
 ****************************************************************
 
@@ -13,8 +13,7 @@ ejecutar como sigue:
 
 ./name estudiantes.txt salida.txt
 
-estudiantes.txt es mi base inicial de estudiantes (si es mi
-familia porque los extranio :( )
+estudiantes.txt es mi base inicial de estudiantes
 
 salida.txt es un nombre opcional, puede cambiarse sin problema
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
